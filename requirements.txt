@@ -1,0 +1,14 @@
+# İçerik Oluşturma Ajanı - Gereksinimler
+# Content Creation Agent - Requirements
+
+# Standart Python kütüphaneleri kullanılıyor, ek bağımlılık yok
+# Using standard Python libraries, no additional dependencies required
+
+# Eğer gelecekte ek özellikler eklenirse:
+# If additional features are added in the future:
+
+# requests>=2.25.1          # Web istekleri için
+# beautifulsoup4>=4.9.3     # Web scraping için  
+# openai>=0.27.0            # AI destekli içerik için
+# schedule>=1.1.0           # Otomatik zamanlama için
+# python-dotenv>=0.19.0     # Çevre değişkenleri için

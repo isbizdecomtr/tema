@@ -1,0 +1,42 @@
+{
+  "brand_name": "İş Dünyası Profesyonelleri",
+  "target_audience": "girişimciler ve iş dünyası profesyonelleri",
+  "tone": "profesyonel, motivasyonel ve samimi",
+  "posting_frequency": "günlük 2-3 gönderi",
+  "preferred_categories": [
+    "motivasyon",
+    "iş_ipuçları",
+    "başarı",
+    "girişimcilik",
+    "eğitim"
+  ],
+  "facebook_profile": {
+    "url": "https://www.facebook.com/profile.php?id=61579971112511",
+    "description": "İş dünyasında başarı için motivasyon ve pratik ipuçları"
+  },
+  "content_settings": {
+    "use_emojis": true,
+    "include_hashtags": true,
+    "max_content_length": 500,
+    "engagement_focused": true,
+    "language": "tr"
+  },
+  "posting_schedule": {
+    "morning_post": "09:00 - Motivasyonel içerik",
+    "afternoon_post": "14:00 - İş ipuçları",
+    "evening_post": "19:00 - Etkileşim artırıcı gönderi"
+  },
+  "hashtag_strategy": {
+    "max_hashtags_per_post": 5,
+    "trending_hashtags": [
+      "#girişimcilik",
+      "#başarı",
+      "#motivasyon",
+      "#işhayatı",
+      "#profesyonelgelişim",
+      "#liderlik",
+      "#yenilik",
+      "#eğitim"
+    ]
+  }
+}
